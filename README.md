@@ -8,9 +8,6 @@ An RSS/Atom reader made in Python.
  - Read entries in a clutter-free reader view.
  - Filter out entries from any added feed.
 
-## Details
-The GUI is built with `PySide6`. 
-
 ## Running
 Uses Python 3.10
 
