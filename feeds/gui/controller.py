@@ -9,8 +9,8 @@ from PySide6.QtCore import QTimer
 from PySide6.QtWidgets import QApplication
 
 import gui
-from duckfeed.model import FeedList, Feed, FeedParseError, EntryCache, Entry
-from duckfeed import APP_NAME
+from feeds.model import FeedList, Feed, FeedParseError, EntryCache, Entry
+from feeds import APP_NAME
 
 
 class Controller(QApplication):

@@ -1,4 +1,4 @@
-from duckfeed.model import Entry
+from feeds.model import Entry
 
 from PySide6.QtWidgets import QWidget, QHBoxLayout, QVBoxLayout, QPushButton
 from PySide6.QtWebEngineWidgets import QWebEngineView

@@ -5,7 +5,7 @@ from PySide6.QtGui import QCursor, QPixmap, QIcon, QMouseEvent, QFont
 from PySide6.QtCore import Qt, QMargins
 from __feature__ import snake_case, true_property
 
-from duckfeed.model import Feed, FeedList
+from feeds.model import Feed, FeedList
 from .controller import Controller
 
 

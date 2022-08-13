@@ -2,7 +2,7 @@ import logging
 import sys
 sys.path.append(".")
 
-from duckfeed.model import Entry, Feed
+from feeds.model import Entry, Feed
 from .feed_library import FeedLibrary
 from .entry_reader import EntryReader
 from .entry_list import EntryList
@@ -33,7 +33,7 @@ class Gui(QMainWindow):
 
         # resize to slightly smaller than screen
         self.resize(QApplication.primary_screen.size / 1.2)
-        self.window_title = "Duck Feed"
+        self.window_title = "Feeds"
 
         self.entry_reader = EntryReader(self)
 

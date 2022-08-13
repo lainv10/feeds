@@ -15,7 +15,7 @@ from typing import Optional
 from appdirs import user_cache_dir
 
 from .entry import Entry
-from duckfeed import APP_NAME
+from feeds import APP_NAME
 
 
 class EntryCache:

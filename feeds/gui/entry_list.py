@@ -4,7 +4,7 @@ from PySide6.QtGui import QCursor, QMouseEvent, QPixmap
 from PySide6.QtCore import Qt, QMargins
 from __feature__ import snake_case, true_property
 
-from duckfeed.model import Entry, Feed
+from feeds.model import Entry, Feed
 
 
 class EntryList(QScrollArea):
