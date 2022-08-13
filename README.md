@@ -7,6 +7,11 @@
  - Read entries in a clutter-free reader view.
  - Filter out entries from any added feed.
 
+![A thumbnail view of RSS feed articles](./res/clip1.jpg "A thumbnail view of RSS feed articles")
+
+![Reader-focused mode of an article showing only text and image content](./res/clip2.jpg 
+"Reader-focused mode of an article showing only text and image content")
+
 ## Reflection
 
 This project was somewhat of a challenge for me at first.
