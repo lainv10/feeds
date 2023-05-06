@@ -47,7 +47,7 @@ articles, but I'd like to write my own algorithm as I think it'd be an interesti
 
 Clone the repository:
 ```
-git clone https://github.com/jpglain/feeds
+git clone https://github.com/lainv10/feeds.git
 cd feeds
 ```
 
